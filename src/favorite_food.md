@@ -2,6 +2,4 @@
 
 <<<<<<< HEAD
 tsukemen
-=======
-sushi
 >>>>>>> main
